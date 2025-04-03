@@ -4,6 +4,5 @@
 
 `go test ./...`
 
+- [ ] `event` // dynamo stream event for namespace
 - [ ] `dynamodb` // dynamo client
-- [ ] `graphql` // scalars / directives
-- [ ] `uuid` 

@@ -4,6 +4,7 @@ go 1.23.8
 
 require (
 	github.com/aws/aws-sdk-go-v2/service/ses v1.30.1
+	github.com/google/uuid v1.6.0
 	github.com/stretchr/testify v1.10.0
 )
 
